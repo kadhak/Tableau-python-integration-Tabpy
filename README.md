@@ -1,5 +1,5 @@
 # Tableau-python-integration-Tabpy
-Tabpy is a powerful tool which helps leverage python capabilities in Tableau to build dynamic interactive forecast dashboards.
+Tabpy is a powerful tool which helps leverage python capabilities in Tableau to build dynamic interactive forecast dashboard.
 
 
 References:
